@@ -14,7 +14,7 @@ Author     :SmartKart
 
 <body style="width:100%;background-image: url(images/admins.jpg);background-size: cover;">
 <div style="background: transparent;">
-	<form action="additemAction.jsp" method="post" enctype="multipart/form-data">
+	<form action="UploadImage.jsp" method="post" enctype="multipart/form-data">
 		<table class="tablestyle" style="margin-top: 130px;margin-left: 550px;width: 700px;">
 			<tr>
 			<td><p class="tdPara">Upload Image</p></td>
@@ -24,7 +24,7 @@ Author     :SmartKart
 		
 		</table>
 	</form>
-<form action="UploadImage.jsp" method="post" style="margin-top: -200px">
+<form action="additemAction.jsp" method="post" style="margin-top: -200px">
 		<table class="tablestyle" style="margin-top: 130px;margin-left: 550px;">
 		
 		<tr>
