@@ -1,0 +1,87 @@
+@CHARSET "ISO-8859-1";
+
+/*body{
+	width:100%;background-image: url(hero.jpg);
+}*/
+.headerlink1{
+	//margin-left: 400px;
+	color: #ff471a;
+	    text-decoration: none;
+    background-color: transparent;
+    font-size: larger;
+}
+.headerlink1:hover{
+	//margin-left: 400px;
+	color: black;
+	    
+}
+.headerlink2{
+	margin-left: 25px;
+	color: #ff471a;
+	        text-decoration: none;
+    background-color: transparent;
+    font-size: larger;
+}
+#topHeader{
+	
+    margin-left: -10px;
+    height: 50px;
+    margin-top: 30px;
+
+}
+#subHeader{
+	   margin-left: 450px;
+    margin-bottom: -10px;
+}
+#menulist{
+	margin-top: 40px
+}
+#menulist li{
+	list-style: none;
+	display: inline;
+	margin-left: 20px;
+}
+.lst{
+	margin-left: 10px;
+	color: black;
+	    text-decoration: none;
+    background-color: transparent;
+    font-size: larger;
+    font-family: sans-serif;
+}
+.lst:hover{
+	color: #ff471a;
+	font-family: sans-serif;
+	    
+}
+#logo{
+	width: 300px;
+    height: 140px
+}
+#homeHeader{
+	margin-top: -110px;
+    margin-left: 550px;
+}
+#mainHeader{
+	    margin-left: -10px;
+    width: 1540px;
+    background-color: white;
+    height: 140px;
+    margin-top: -20px;
+}
+#content{
+	
+	width: 1500px;
+	height:500px;
+}
+
+/*------------------------------------Admin home page starts---------------------------------*/
+
+#welcomeHeader{
+	   align-items: initial;
+    margin-left: 600px;
+    margin-top: 180px;
+    font-size: 40px;
+    font-family: monospace;
+}
+}

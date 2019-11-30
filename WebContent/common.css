@@ -1,0 +1,86 @@
+@CHARSET "ISO-8859-1";
+#view{
+		margin-top: 100px;
+		margin-left: 200px;
+		width: 1200px;
+		border-collapse: collapse;
+	}
+	#view, .vth, .vtd {
+  		height: 50px;
+ 	 	text-align: center;
+ 	 	padding: 5px;
+ 	 	border-bottom: 1px solid gray;
+ 	 	font-weight: bold;
+	}
+	
+.txtBox{
+	    width: 300px;
+    margin-left: 500px;
+    height: 30px;
+    border-color: blue;
+    border-radius: 20px;
+}
+.dateFeild{
+	width: 200px;
+    height: 30px;
+    border: aliceblue;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+.textBox{
+	    width: 200px;
+    height: 25px;
+    border-radius: 20px;
+    background-color: gainsboro;
+}
+.cnfBtn{
+	width: 100px;
+    height: 40px;
+    border-radius: 22px;
+    margin-left: 120px;
+}
+.tablestyle{
+	margin-top: 200px;
+    margin-left: 600px;
+    width: 450px;
+    height: 200px;
+}
+.tdPara{
+	font-size: 22px;
+    font-weight: bold;
+    color: black;
+}
+.tdText{
+	    width: 200px;
+    height: 25px;
+    border-radius: 20px;
+    background-color: gainsboro;
+
+}
+.footer-bottom {
+  text-align: center;
+  background-color: #1b1b1b;
+  border-top: 1px solid #2c2c2c;
+  padding: 30px 0;
+}
+
+.footer-bottom h5 {
+  font-size: 12px;
+  line-height: 1;
+  color: #888888;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 7px;
+  margin-bottom: 3px;
+}
+
+.footer-bottom h6 {
+  font-size: 11px;
+  line-height: 15px;
+  color: #888888;
+  font-weight: 400;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  margin-bottom: 0;
+}
